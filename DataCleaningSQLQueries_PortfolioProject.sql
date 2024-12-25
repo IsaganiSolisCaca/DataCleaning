@@ -6,7 +6,7 @@ Data Cleaning in SQL Queries
 
 -- Standardize Data Format
 
-SELECT SaleDateConverted
+SELECT SaleDate
 FROM PortfolioProject.dbo.NashvilleHousing
 
 ALTER TABLE NashvilleHousing
